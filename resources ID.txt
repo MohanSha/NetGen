@@ -1,0 +1,12 @@
+Resource id="0" Cloud
+Resource id="1" Switch
+Resource id="2" Router
+Resource id="3" VLAN network
+Resource id="4" Internet
+Resource id="5" Sever
+Resource id="6" User
+Resource id="7" Satellite Dish
+Resource id="8" Satellite
+Resource id="9" Firewall
+Resource id="10" Monitor
+Resource id="11" CPU

@@ -1,0 +1,47 @@
+TCL MPLS,0
+Mumbai,2
+MUM_Core_Switch1,1
+Mum Matrix 1,11
+Mum Matrix 2,11
+MUM_Core_Switch2,11
+X.30.2(Win Multicast Sender) X.30.3(Receiver),11
+Fortinet 110C Firewall,9
+MUM_Core_Switch3,1
+User Mumabai LAN,6
+Internet Tata ISP,0
+Delhi,2
+X.50.215(Receiver),10
+User Delhi LAN,6
+Hydrabad,2
+X.19.2(Sender),11
+User Hydrabad LAN,6
+Banglore,2
+X.55.5(Reciver),10
+User Banglore LAN,6
+Cochin,2
+Cochin Gateway: Router,6
+X.24.5(Receiver),10
+Gurgram,2
+Gurgram Gateway router,6
+Hugehs Network,0
+Satellite,8
+Qube kid 1,7
+Qube kid 2,7
+Qube kid 3,7
+Chennai,2
+CHN Core Switch 1,1
+X.91.2 (Win Multicaste sender),11
+Fortinet 310B Firewall,9
+CHN Core Switch 2,1
+User VLAN,3
+CHN Core Switch 3,1
+CHN Matrix 1,11
+CHN Matrix 2,11
+Aircel,0
+US Firewall,9
+US Switch,1
+US LAN,6
+CHN Switch 1,1
+10G P2P Fiber Ring Uplink,1
+Warehouse CHN,6
+Delhi Firewall,9
